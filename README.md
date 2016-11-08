@@ -1,3 +1,6 @@
+This is the assigment forked from the Coursera github page given below
+My code and graphs that are included are based off of the outline of this assignment
+
 ## Introduction
 
 This assignment uses data from
